@@ -140,6 +140,10 @@ Accuracy calculation:
 )
 =
 0.6
+
+Accuracy = |Predicted Price - Actual Price|
+Reward Multiplier = 1 / (1 + Accuracy)
+
 RewardMultiplier=1−(∣103−101∣/5)=1−(2/5)=0.6
 ➡️ User gets 60% of their potential reward share.
 
