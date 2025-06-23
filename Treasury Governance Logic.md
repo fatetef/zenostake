@@ -1,24 +1,18 @@
-+-------------------+
-| User Stakes Tokens |
-+-------------------+
++-----------------------+
+|  User Stakes Tokens   |
++-----------------------+
            |
            v
-+-------------------+
-|  Prediction Pool   |
-+-------------------+
-       /       \
-      v         v
-+-------------------+      +--------------------------+
-|    Winners        |      |    Protocol Treasury      |
-| (Based on Accuracy)|      | (Fee Collected from Pool) |
-+-------------------+      +--------------------------+
-
-                |
-                v
-     Rewards Paid Out to Winners
-
-Protocol Treasury Usage:
-- Governance Votes
-- Marketing & Growth Initiatives
-- Community Incentives
-- Developer Compensation
++-----------------------+
+|    Prediction Pool    |
++-----------------------+
+      /           \
+     v             v
++-----------------------+    +-----------------------------+
+|        Winners        |    |      Protocol Treasury      |
+|  (Based on Accuracy)  |    | (Fees Collected from Pool)  |
++-----------------------+    +-----------------------------+
+           |                              |
+           v                              v
+  Rewards Paid Out to Winners    Funds Used for Governance, Marketing,
+                                 Community Incentives, Dev Compensation
