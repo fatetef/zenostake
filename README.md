@@ -105,6 +105,13 @@ Instead, ZenoStake focuses on **precision-based predictions.**
 ---
 
 ## 🛠️ Local Development
+## 🧑‍💻 Local Development
 
-(Keep the rest as already provided)
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/fatetef/zenostake.git
+cd zenostake
+npm install
+npm run dev
 
