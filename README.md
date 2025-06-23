@@ -43,15 +43,7 @@ ZenoStake is a gamified DeFi protocol where users **predict market movements**, 
 
 ---
 
-## 🧑‍💻 Local Development
 
-Clone the repo and install dependencies:
-
-```bash
-git clone https://github.com/fatetef/zenostake.git
-cd zenostake
-npm install
-npm run dev
 
 ## 💡 How It Works
 
